@@ -1,0 +1,16 @@
+i.icon{
+  font-size: 2em;
+}
+#brand{
+  margin-bottom: 0.3em;
+  margin-right: 0;
+}
+#sameline{
+  display: inline;
+}
+body{
+  font-family: 'Raleway', sans-serif;
+}
+.center{
+  text-align: center;
+}
